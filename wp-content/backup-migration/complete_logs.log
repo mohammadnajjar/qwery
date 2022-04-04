@@ -1,0 +1,427 @@
+[2022-03-29 23:50:51] [LOG] Plugin has been activated
+[2022-03-29 23:51:12] [ERROR] Shuted down
+[2022-03-29 23:51:12] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:12] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:12] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:12] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:18] [ERROR] Shuted down
+[2022-03-29 23:51:18] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:18] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:18] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:18] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:19] [ERROR] Shuted down
+[2022-03-29 23:51:19] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:19] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:19] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:19] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:21] [ERROR] Shuted down
+[2022-03-29 23:51:21] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:21] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:21] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:21] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:21] [ERROR] Shuted down
+[2022-03-29 23:51:21] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:21] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:21] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:21] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:23] [ERROR] Shuted down
+[2022-03-29 23:51:23] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:23] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:23] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:23] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:23] [ERROR] Shuted down
+[2022-03-29 23:51:23] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:23] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:23] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:23] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:24] [ERROR] Shuted down
+[2022-03-29 23:51:24] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:24] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:24] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:24] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:25] [ERROR] Shuted down
+[2022-03-29 23:51:25] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:25] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:25] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:27] [ERROR] Shuted down
+[2022-03-29 23:51:27] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:27] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:27] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:27] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:51:35] [ERROR] Shuted down
+[2022-03-29 23:51:35] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:51:35] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:51:35] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:51:35] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:18] [ERROR] Shuted down
+[2022-03-29 23:53:18] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:18] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:18] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:18] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:20] [ERROR] Shuted down
+[2022-03-29 23:53:20] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:20] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:20] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:20] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:20] [ERROR] Shuted down
+[2022-03-29 23:53:20] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:20] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:20] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:20] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:21] [ERROR] Shuted down
+[2022-03-29 23:53:21] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:21] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:21] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:21] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:22] [ERROR] Shuted down
+[2022-03-29 23:53:22] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:22] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:22] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:22] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:23] [ERROR] Shuted down
+[2022-03-29 23:53:23] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:23] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:23] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:23] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:23] [ERROR] Shuted down
+[2022-03-29 23:53:23] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:23] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:23] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:23] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:24] [ERROR] Shuted down
+[2022-03-29 23:53:24] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:24] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:24] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:24] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:24] [ERROR] Shuted down
+[2022-03-29 23:53:24] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:24] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:24] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:24] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:28] [ERROR] Shuted down
+[2022-03-29 23:53:28] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:28] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:28] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:28] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:36] [ERROR] Shuted down
+[2022-03-29 23:53:36] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:36] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:36] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:36] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:44] [ERROR] Shuted down
+[2022-03-29 23:53:44] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:44] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:44] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:44] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:45] [ERROR] Shuted down
+[2022-03-29 23:53:45] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:45] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:45] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:45] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:47] [ERROR] Shuted down
+[2022-03-29 23:53:47] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:47] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:47] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:47] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:53] [ERROR] Shuted down
+[2022-03-29 23:53:53] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:53] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:53] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:53] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:55] [ERROR] Shuted down
+[2022-03-29 23:53:55] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:55] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:55] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:55] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:56] [ERROR] Shuted down
+[2022-03-29 23:53:56] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:56] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:56] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:56] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:53:59] [ERROR] Shuted down
+[2022-03-29 23:53:59] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:53:59] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:53:59] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:53:59] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:54:00] [ERROR] Shuted down
+[2022-03-29 23:54:00] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:54:00] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:54:00] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:54:00] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:54:02] [ERROR] Shuted down
+[2022-03-29 23:54:02] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:54:02] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:54:02] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:54:02] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:54:13] [LOG] Creating backup 
+[2022-03-29 23:54:13] [LOG] Found 24818 files to backup.
+[2022-03-29 23:55:38] [LOG] New backup created and its name is: BM_Backup_2022-03-29_23_54_04_V6f735iBSm0nqusy.zip
+[2022-03-29 23:55:38] [ERROR] Shuted down
+[2022-03-29 23:55:38] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:55:38] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:55:38] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:55:38] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:55:50] [LOG] Creating backup 
+[2022-03-29 23:55:50] [LOG] Found 24818 files to backup.
+[2022-03-29 23:57:07] [LOG] New backup created and its name is: BM_Backup_2022-03-29_23_55_40_T05Xgbdtchj1MksN.zip
+[2022-03-29 23:57:07] [ERROR] Shuted down
+[2022-03-29 23:57:07] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:57:07] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:57:07] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:57:07] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:57:09] [ERROR] Shuted down
+[2022-03-29 23:57:09] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:57:09] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:57:09] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:57:09] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271
+[2022-03-29 23:57:09] [ERROR] Shuted down
+[2022-03-29 23:57:09] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php
+    [line] => 271
+)
+
+[2022-03-29 23:57:09] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2022-03-29 23:57:09] [ERROR] Error message: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-03-29 23:57:09] [ERROR] Error file/line: C:\laragon\www\qwery\wp-content\plugins\backup-backup\includes\initializer.php|271

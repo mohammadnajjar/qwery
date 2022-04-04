@@ -1,0 +1,246 @@
+Date: 2022-03-30 00:05:00 UTC
+Reloads: ON
+User mode: Free
+BackupGuard version: 1.6.8.5
+Supported archive version: 5
+Database prefix: wp_
+Site URL: http://qwery.test
+Home URL: http://qwery.test
+Uploads path: C:\laragon\www\qwery/wp-content/uploads
+Site installation: standard
+OS: WINNT
+Server: Apache/2.4.47 (Win64) OpenSSL/1.1.1m PHP/7.4.19
+User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55
+PHP version: 7.4.19
+MySQL version: 5.7.33
+Int size: 8
+Int lib: bcmath
+Memory limit: 512M
+Max execution time: 36000
+Disk free space: 26.6GB
+CURL available: Yes
+Openssl version: OpenSSL 1.1.1k  25 Mar 2021
+CURL version: 7.70.0 / SSL: OpenSSL/1.1.1m / libz: 1.2.11
+Email notifications: OFF
+FTP passive mode: OFF
+Exclude paths: 
+Tables to exclude: 
+Number of rows to backup: 10000
+AJAX request frequency: 
+Environment: Wordpress 5.9.2
+Backup mode: Manual
+Backup type: database
+
+2022-03-30 00:05:53: Start backup
+2022-03-30 00:05:53: Reload method set to ajax
+2022-03-30 00:05:53: ------- Reload Service -------
+2022-03-30 00:06:02: Start backup database
+2022-03-30 00:06:02: Total tables to backup: 95
+2022-03-30 00:06:02: Total rows to backup: 4132
+2022-03-30 00:06:02: Start backup table: wp_actionscheduler_actions
+2022-03-30 00:06:02: End backup table: wp_actionscheduler_actions
+2022-03-30 00:06:02: Start backup table: wp_actionscheduler_claims
+2022-03-30 00:06:02: End backup table: wp_actionscheduler_claims
+2022-03-30 00:06:02: Start backup table: wp_actionscheduler_groups
+2022-03-30 00:06:02: End backup table: wp_actionscheduler_groups
+2022-03-30 00:06:02: Start backup table: wp_actionscheduler_logs
+2022-03-30 00:06:02: End backup table: wp_actionscheduler_logs
+2022-03-30 00:06:02: Start backup table: wp_commentmeta
+2022-03-30 00:06:02: End backup table: wp_commentmeta
+2022-03-30 00:06:02: Start backup table: wp_comments
+2022-03-30 00:06:02: End backup table: wp_comments
+2022-03-30 00:06:02: Start backup table: wp_duplicator_packages
+2022-03-30 00:06:02: End backup table: wp_duplicator_packages
+2022-03-30 00:06:02: Start backup table: wp_e_events
+2022-03-30 00:06:02: End backup table: wp_e_events
+2022-03-30 00:06:02: Start backup table: wp_latepoint_activities
+2022-03-30 00:06:02: End backup table: wp_latepoint_activities
+2022-03-30 00:06:02: Start backup table: wp_latepoint_agent_meta
+2022-03-30 00:06:02: End backup table: wp_latepoint_agent_meta
+2022-03-30 00:06:02: Start backup table: wp_latepoint_agents
+2022-03-30 00:06:02: End backup table: wp_latepoint_agents
+2022-03-30 00:06:02: Start backup table: wp_latepoint_agents_services
+2022-03-30 00:06:02: End backup table: wp_latepoint_agents_services
+2022-03-30 00:06:02: Start backup table: wp_latepoint_booking_intents
+2022-03-30 00:06:02: End backup table: wp_latepoint_booking_intents
+2022-03-30 00:06:02: Start backup table: wp_latepoint_booking_meta
+2022-03-30 00:06:02: End backup table: wp_latepoint_booking_meta
+2022-03-30 00:06:02: Start backup table: wp_latepoint_bookings
+2022-03-30 00:06:02: End backup table: wp_latepoint_bookings
+2022-03-30 00:06:02: Start backup table: wp_latepoint_custom_prices
+2022-03-30 00:06:02: End backup table: wp_latepoint_custom_prices
+2022-03-30 00:06:02: Start backup table: wp_latepoint_customer_meta
+2022-03-30 00:06:02: End backup table: wp_latepoint_customer_meta
+2022-03-30 00:06:02: Start backup table: wp_latepoint_customers
+2022-03-30 00:06:02: End backup table: wp_latepoint_customers
+2022-03-30 00:06:02: Start backup table: wp_latepoint_location_categories
+2022-03-30 00:06:02: End backup table: wp_latepoint_location_categories
+2022-03-30 00:06:02: Start backup table: wp_latepoint_locations
+2022-03-30 00:06:02: End backup table: wp_latepoint_locations
+2022-03-30 00:06:02: Start backup table: wp_latepoint_sent_reminders
+2022-03-30 00:06:02: End backup table: wp_latepoint_sent_reminders
+2022-03-30 00:06:02: Start backup table: wp_latepoint_service_categories
+2022-03-30 00:06:02: End backup table: wp_latepoint_service_categories
+2022-03-30 00:06:02: Start backup table: wp_latepoint_service_meta
+2022-03-30 00:06:02: End backup table: wp_latepoint_service_meta
+2022-03-30 00:06:02: Start backup table: wp_latepoint_services
+2022-03-30 00:06:02: End backup table: wp_latepoint_services
+2022-03-30 00:06:02: Start backup table: wp_latepoint_sessions
+2022-03-30 00:06:02: End backup table: wp_latepoint_sessions
+2022-03-30 00:06:02: Start backup table: wp_latepoint_settings
+2022-03-30 00:06:02: End backup table: wp_latepoint_settings
+2022-03-30 00:06:02: Start backup table: wp_latepoint_step_settings
+2022-03-30 00:06:02: End backup table: wp_latepoint_step_settings
+2022-03-30 00:06:02: Start backup table: wp_latepoint_transactions
+2022-03-30 00:06:02: End backup table: wp_latepoint_transactions
+2022-03-30 00:06:02: Start backup table: wp_latepoint_work_periods
+2022-03-30 00:06:02: End backup table: wp_latepoint_work_periods
+2022-03-30 00:06:02: Start backup table: wp_links
+2022-03-30 00:06:03: End backup table: wp_links
+2022-03-30 00:06:03: Start backup table: wp_options
+2022-03-30 00:06:03: End backup table: wp_options
+2022-03-30 00:06:03: Start backup table: wp_postmeta
+2022-03-30 00:06:03: End backup table: wp_postmeta
+2022-03-30 00:06:03: Start backup table: wp_posts
+2022-03-30 00:06:03: End backup table: wp_posts
+2022-03-30 00:06:03: Start backup table: wp_revslider_css
+2022-03-30 00:06:03: End backup table: wp_revslider_css
+2022-03-30 00:06:03: Start backup table: wp_revslider_css_bkp
+2022-03-30 00:06:03: End backup table: wp_revslider_css_bkp
+2022-03-30 00:06:03: Start backup table: wp_revslider_layer_animations
+2022-03-30 00:06:03: End backup table: wp_revslider_layer_animations
+2022-03-30 00:06:03: Start backup table: wp_revslider_layer_animations_bkp
+2022-03-30 00:06:03: End backup table: wp_revslider_layer_animations_bkp
+2022-03-30 00:06:03: Start backup table: wp_revslider_navigations
+2022-03-30 00:06:03: End backup table: wp_revslider_navigations
+2022-03-30 00:06:03: Start backup table: wp_revslider_navigations_bkp
+2022-03-30 00:06:03: End backup table: wp_revslider_navigations_bkp
+2022-03-30 00:06:03: Start backup table: wp_revslider_sliders
+2022-03-30 00:06:03: End backup table: wp_revslider_sliders
+2022-03-30 00:06:03: Start backup table: wp_revslider_sliders_bkp
+2022-03-30 00:06:03: End backup table: wp_revslider_sliders_bkp
+2022-03-30 00:06:03: Start backup table: wp_revslider_slides
+2022-03-30 00:06:03: End backup table: wp_revslider_slides
+2022-03-30 00:06:03: Start backup table: wp_revslider_slides_bkp
+2022-03-30 00:06:03: End backup table: wp_revslider_slides_bkp
+2022-03-30 00:06:03: Start backup table: wp_revslider_static_slides
+2022-03-30 00:06:03: End backup table: wp_revslider_static_slides
+2022-03-30 00:06:03: Start backup table: wp_revslider_static_slides_bkp
+2022-03-30 00:06:03: End backup table: wp_revslider_static_slides_bkp
+2022-03-30 00:06:03: Start backup table: wp_sbi_feed_caches
+2022-03-30 00:06:03: End backup table: wp_sbi_feed_caches
+2022-03-30 00:06:03: Start backup table: wp_sbi_feeds
+2022-03-30 00:06:03: End backup table: wp_sbi_feeds
+2022-03-30 00:06:03: Start backup table: wp_sbi_instagram_feed_locator
+2022-03-30 00:06:03: End backup table: wp_sbi_instagram_feed_locator
+2022-03-30 00:06:03: Start backup table: wp_sbi_instagram_feeds_posts
+2022-03-30 00:06:03: End backup table: wp_sbi_instagram_feeds_posts
+2022-03-30 00:06:03: Start backup table: wp_sbi_instagram_posts
+2022-03-30 00:06:03: End backup table: wp_sbi_instagram_posts
+2022-03-30 00:06:03: Start backup table: wp_sbi_sources
+2022-03-30 00:06:03: End backup table: wp_sbi_sources
+2022-03-30 00:06:03: Start backup table: wp_term_relationships
+2022-03-30 00:06:03: End backup table: wp_term_relationships
+2022-03-30 00:06:03: Start backup table: wp_term_taxonomy
+2022-03-30 00:06:03: End backup table: wp_term_taxonomy
+2022-03-30 00:06:03: Start backup table: wp_termmeta
+2022-03-30 00:06:03: End backup table: wp_termmeta
+2022-03-30 00:06:03: Start backup table: wp_terms
+2022-03-30 00:06:03: End backup table: wp_terms
+2022-03-30 00:06:03: Start backup table: wp_tinvwl_analytics
+2022-03-30 00:06:03: End backup table: wp_tinvwl_analytics
+2022-03-30 00:06:03: Start backup table: wp_tinvwl_items
+2022-03-30 00:06:03: End backup table: wp_tinvwl_items
+2022-03-30 00:06:03: Start backup table: wp_tinvwl_lists
+2022-03-30 00:06:03: End backup table: wp_tinvwl_lists
+2022-03-30 00:06:03: Start backup table: wp_usermeta
+2022-03-30 00:06:03: End backup table: wp_usermeta
+2022-03-30 00:06:03: Start backup table: wp_users
+2022-03-30 00:06:03: End backup table: wp_users
+2022-03-30 00:06:03: Start backup table: wp_wc_admin_note_actions
+2022-03-30 00:06:03: End backup table: wp_wc_admin_note_actions
+2022-03-30 00:06:03: Start backup table: wp_wc_admin_notes
+2022-03-30 00:06:03: End backup table: wp_wc_admin_notes
+2022-03-30 00:06:03: Start backup table: wp_wc_category_lookup
+2022-03-30 00:06:03: End backup table: wp_wc_category_lookup
+2022-03-30 00:06:03: Start backup table: wp_wc_customer_lookup
+2022-03-30 00:06:03: End backup table: wp_wc_customer_lookup
+2022-03-30 00:06:03: Start backup table: wp_wc_download_log
+2022-03-30 00:06:03: End backup table: wp_wc_download_log
+2022-03-30 00:06:03: Start backup table: wp_wc_order_coupon_lookup
+2022-03-30 00:06:03: End backup table: wp_wc_order_coupon_lookup
+2022-03-30 00:06:03: Start backup table: wp_wc_order_product_lookup
+2022-03-30 00:06:03: End backup table: wp_wc_order_product_lookup
+2022-03-30 00:06:03: Start backup table: wp_wc_order_stats
+2022-03-30 00:06:03: End backup table: wp_wc_order_stats
+2022-03-30 00:06:03: Start backup table: wp_wc_order_tax_lookup
+2022-03-30 00:06:03: End backup table: wp_wc_order_tax_lookup
+2022-03-30 00:06:03: Start backup table: wp_wc_product_attributes_lookup
+2022-03-30 00:06:03: End backup table: wp_wc_product_attributes_lookup
+2022-03-30 00:06:03: Start backup table: wp_wc_product_meta_lookup
+2022-03-30 00:06:03: End backup table: wp_wc_product_meta_lookup
+2022-03-30 00:06:03: Start backup table: wp_wc_rate_limits
+2022-03-30 00:06:03: End backup table: wp_wc_rate_limits
+2022-03-30 00:06:03: Start backup table: wp_wc_reserved_stock
+2022-03-30 00:06:03: End backup table: wp_wc_reserved_stock
+2022-03-30 00:06:03: Start backup table: wp_wc_tax_rate_classes
+2022-03-30 00:06:03: End backup table: wp_wc_tax_rate_classes
+2022-03-30 00:06:03: Start backup table: wp_wc_webhooks
+2022-03-30 00:06:03: End backup table: wp_wc_webhooks
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_api_keys
+2022-03-30 00:06:03: End backup table: wp_woocommerce_api_keys
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_attribute_taxonomies
+2022-03-30 00:06:03: End backup table: wp_woocommerce_attribute_taxonomies
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_downloadable_product_permissions
+2022-03-30 00:06:03: End backup table: wp_woocommerce_downloadable_product_permissions
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_log
+2022-03-30 00:06:03: End backup table: wp_woocommerce_log
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_order_itemmeta
+2022-03-30 00:06:03: End backup table: wp_woocommerce_order_itemmeta
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_order_items
+2022-03-30 00:06:03: End backup table: wp_woocommerce_order_items
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_payment_tokenmeta
+2022-03-30 00:06:03: End backup table: wp_woocommerce_payment_tokenmeta
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_payment_tokens
+2022-03-30 00:06:03: End backup table: wp_woocommerce_payment_tokens
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_sessions
+2022-03-30 00:06:03: End backup table: wp_woocommerce_sessions
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_shipping_zone_locations
+2022-03-30 00:06:03: End backup table: wp_woocommerce_shipping_zone_locations
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_shipping_zone_methods
+2022-03-30 00:06:03: End backup table: wp_woocommerce_shipping_zone_methods
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_shipping_zones
+2022-03-30 00:06:03: End backup table: wp_woocommerce_shipping_zones
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_tax_rate_locations
+2022-03-30 00:06:03: End backup table: wp_woocommerce_tax_rate_locations
+2022-03-30 00:06:03: Start backup table: wp_woocommerce_tax_rates
+2022-03-30 00:06:03: End backup table: wp_woocommerce_tax_rates
+2022-03-30 00:06:03: Start backup table: wp_wpgdprc_access_requests
+2022-03-30 00:06:03: End backup table: wp_wpgdprc_access_requests
+2022-03-30 00:06:03: Start backup table: wp_wpgdprc_consents
+2022-03-30 00:06:03: End backup table: wp_wpgdprc_consents
+2022-03-30 00:06:03: Start backup table: wp_wpgdprc_delete_requests
+2022-03-30 00:06:03: End backup table: wp_wpgdprc_delete_requests
+2022-03-30 00:06:03: Start backup table: wp_wpgdprc_log
+2022-03-30 00:06:03: End backup table: wp_wpgdprc_log
+2022-03-30 00:06:03: Start backup table: wp_wpvivid_scan_result
+2022-03-30 00:06:03: End backup table: wp_wpvivid_scan_result
+2022-03-30 00:06:03: Start backup table: wp_wpvivid_unused_uploads_files
+2022-03-30 00:06:03: End backup table: wp_wpvivid_unused_uploads_files
+2022-03-30 00:06:03: End backup database
+2022-03-30 00:06:03: Backup database total duration: 1 second
+2022-03-30 00:06:03: ------- Reload Service -------
+2022-03-30 00:06:11: Start backup files
+2022-03-30 00:06:11: ------- Start prepare file tree -------
+2022-03-30 00:06:11: ------- End prepare file tree -------
+2022-03-30 00:06:11: Number of files to backup: 1
+2022-03-30 00:06:11: Root path: C:\laragon\www\qwery/wp-content/uploads/backup-guard/sg_backup_opt(db)_20220330000553/sg_backup_opt(db)_20220330000553.sgbp/
+2022-03-30 00:06:11: ------- Reload Service -------
+2022-03-30 00:06:13: Start backup file: wp-content/uploads/backup-guard/sg_backup_opt(db)_20220330000553/sg_backup_opt(db)_20220330000553.sql
+2022-03-30 00:06:13: End backup file: wp-content/uploads/backup-guard/sg_backup_opt(db)_20220330000553/sg_backup_opt(db)_20220330000553.sql
+2022-03-30 00:06:13: End backup files
+2022-03-30 00:06:13: Backup files total duration: 2 seconds
+2022-03-30 00:06:13: End backup
+2022-03-30 00:06:13: Total duration: 20 seconds
+2022-03-30 00:06:13: Memory peak usage: 40MB
+2022-03-30 00:06:13: Archive size: 814.6KB (814591 bytes)

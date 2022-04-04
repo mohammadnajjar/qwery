@@ -1,0 +1,120 @@
+Log created: 2022-03-29 23:52:11
+Type: backup
+[2022-03-29 23:52:15][notice]Start backing up.
+[2022-03-29 23:52:15][notice]server info fcgi:Off max execution time: 900 wp version:5.9.2 php version:7.4.19 db version:5.7.33 php ini:safe_mode: memory_limit:256M memory_get_usage:144.53 MB memory_get_peak_usage:144.68 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-03-29 23:52:15][notice]Prepare to backup backup_db files.
+[2022-03-29 23:52:15][notice]Start exporting database.
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_actionscheduler_actions
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_actionscheduler_claims
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_actionscheduler_groups
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_actionscheduler_logs
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_commentmeta
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_comments
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_duplicator_packages
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_e_events
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_activities
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_agent_meta
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_agents
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_agents_services
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_booking_intents
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_booking_meta
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_bookings
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_custom_prices
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_customer_meta
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_customers
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_location_categories
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_locations
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_sent_reminders
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_service_categories
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_service_meta
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_services
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_sessions
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_settings
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_step_settings
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_transactions
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_latepoint_work_periods
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_links
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_options
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_postmeta
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_posts
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_css
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_css_bkp
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_layer_animations
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_layer_animations_bkp
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_navigations
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_navigations_bkp
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_sliders
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_sliders_bkp
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_slides
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_slides_bkp
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_static_slides
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_revslider_static_slides_bkp
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_sbi_feed_caches
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_sbi_feeds
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_sbi_instagram_feed_locator
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_sbi_instagram_feeds_posts
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_sbi_instagram_posts
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_sbi_sources
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_sg_action
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_sg_config
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_sg_schedule
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_term_relationships
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_term_taxonomy
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_termmeta
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_terms
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_tinvwl_analytics
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_tinvwl_items
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_tinvwl_lists
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_usermeta
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_users
+[2022-03-29 23:52:15][notice]Preparing to dump table wp_wc_admin_note_actions
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_admin_notes
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_category_lookup
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_customer_lookup
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_download_log
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_order_product_lookup
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_order_stats
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_product_attributes_lookup
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_rate_limits
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_reserved_stock
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wc_webhooks
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_api_keys
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_log
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_order_items
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_sessions
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wpgdprc_access_requests
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wpgdprc_consents
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wpgdprc_delete_requests
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wpgdprc_log
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wpvivid_scan_result
+[2022-03-29 23:52:16][notice]Preparing to dump table wp_wpvivid_unused_uploads_files
+[2022-03-29 23:52:16][notice]Exporting database finished.
+[2022-03-29 23:52:16][notice]Start compressing backup_db
+[2022-03-29 23:52:16][notice]Prepare to zip files. file: qwery.test_wpvivid-62439bab3b198_2022-03-29-23-52_backup_db.zip
+[2022-03-29 23:52:16][notice]Adding zip files completed.qwery.test_wpvivid-62439bab3b198_2022-03-29-23-52_backup_db.zip, filesize: 6.32 MB
+[2022-03-29 23:52:16][notice]Compressing backup_db completed
+[2022-03-29 23:52:16][notice]Backing up backup_db completed.
+[2022-03-29 23:52:16][notice]Prepare to backup backup_merge files.
+[2022-03-29 23:52:16][notice]File number: 1
+[2022-03-29 23:52:16][notice]Start compressing backup_merge
+[2022-03-29 23:52:16][notice]Prepare to zip files. file: qwery.test_wpvivid-62439bab3b198_2022-03-29-23-52_backup_all.zip
+[2022-03-29 23:52:16][notice]Adding zip files completed.qwery.test_wpvivid-62439bab3b198_2022-03-29-23-52_backup_all.zip, filesize: 6.32 MB
+[2022-03-29 23:52:16][notice]Cleaned up file, filename: C:\laragon\www\qwery/wp-content\wpvividbackups\qwery.test_wpvivid-62439bab3b198_2022-03-29-23-52_backup_db.zip
+[2022-03-29 23:52:16][notice]Compressing backup_merge completed
+[2022-03-29 23:52:16][notice]Backing up backup_merge completed.
+[2022-03-29 23:52:16][notice]Backup completed.
+[2022-03-29 23:52:16][notice]Backup succeeded.

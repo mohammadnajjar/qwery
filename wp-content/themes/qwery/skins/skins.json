@@ -1,0 +1,27 @@
+{
+    "default": {
+        "title": "Default",
+        "description": "",
+        "version": "2.0",
+        "category": "business,services",
+        "demo_url": "//qwery.ancorathemes.com"
+    },
+    "roofing": {
+        "title": "Roofing",
+        "description": "",
+        "version": "1.5",
+        "category": "business,services",
+        "demo_url": "//roofing.qwery.ancorathemes.com",
+        "checked": "2021-12-20 13:06:32",
+        "updated": "2021-12-08"
+    },
+    "flooring": {
+        "title": "Flooring",
+        "description": "",
+        "version": "1.4",
+        "category": "business,services,online store",
+        "demo_url": "//flooring.qwery.ancorathemes.com/",
+        "updated": "2021-11-27",
+        "checked": "2021-12-20 13:06:32"
+    }
+}
